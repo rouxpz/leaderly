@@ -4,7 +4,7 @@
 #include "ofxiOS.h"
 #include "ofxiOSExtras.h"
 
-class testApp : public ofxiOS{
+class testApp : public ofxiOSApp{
 	
     public:
         void setup();
